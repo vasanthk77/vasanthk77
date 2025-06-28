@@ -82,7 +82,7 @@ Innomatics Research Labs, Bengaluru (Feb 2023 – May 2023)
 
 - **Portfolio:** [vasanthk77.github.io](https://vasanthk77.github.io/)
 - **Email:** [vasanthk8688@gmail.com](mailto:vasanthk8688@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vasanthk](https://linkedin.com/in/vasanthk)
+- **LinkedIn:** [linkedin.com/in/vasanthk](https://www.linkedin.com/in/vasanth-k-54abbb225/)
 - **GitHub:** [github.com/vasanthk77](https://github.com/vasanthk77)
 
 ---
