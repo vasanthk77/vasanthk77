@@ -1,7 +1,7 @@
 # Hi there, I'm Vasanth K! 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://vasanthk77.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasanthk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-k-54abbb225/)
 [![GitHub](https://img.shields.io/badge/GitHub-vasanthk77-black?logo=github)](https://github.com/vasanthk77)
 [![Gmail](https://img.shields.io/badge/Gmail-vasanthk8688@gmail.com-red?logo=gmail)](mailto:vasanthk8688@gmail.com)
 
